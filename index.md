@@ -46,8 +46,6 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </iframe>
 {% endif %}
 
-<h4>This website is still under development.  It should be complete by March 15.</h4>
-
 <h2 id="general">General Information</h2>
 
 {% comment %}
